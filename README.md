@@ -22,3 +22,13 @@ curl -s https://get.vpnsetup.com | sudo bash
 ## License
 
 MIT
+
+---
+
+## 💰 Support & Get Full Version
+
+This is the free version. Get the full version with more features:
+
+[Buy on Gumroad - ](https://haualand.gumroad.com/l/vpn-setup-pro)
+
+---
